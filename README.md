@@ -10,6 +10,6 @@ Implementation of a Bellman-Ford style algorithm wherein each node keeps a dista
 This project was a lot of fun. I love Dijkstra's pathfinding algorithm and it was cool to learn about other pathfinding algorithms and how they are used in routing. I encountered a few bugs in implementating these projects as a result of rushing myself and not taking the proper time to understand the algorithms before jumping in, so about halfway through I restarted both classes, but it was incredibly satisfying to start from scratch with a much more in-depth knowledge. Everything feels a lot neater than it was before. 
 
 Usage:
-$> python3 sim.py DISTANCE_VECTOR path/to/event.event
+Cmd> python3 sim.py DISTANCE_VECTOR path/to/event.event
 OR
-$> python3 sim.py LINK_STATE path/to/event.event
+Cmd> python3 sim.py LINK_STATE path/to/event.event
